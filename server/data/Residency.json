@@ -1,0 +1,387 @@
+[
+    {
+      "_id": {
+        "$oid": "6438ffdd74446601d6fce96c"
+      },
+      "title": "Asatti Garden City",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 1",
+      "city": " New York",
+      "country": "US",
+      "image": "https://www.pexels.com/photo/house-lights-turned-on-106399/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T07:25:13.156Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T07:25:13.156Z"
+      },
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "2",
+        "bedrooms": "10"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6439001c74446601d6fce96d"
+      },
+      "title": "Citralan Puri Serang",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 3000,
+      "address": "Street 2",
+      "city": "California",
+      "country": "US",
+      "image": "https://www.pexels.com/photo/modern-building-against-sky-323780/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T07:26:20.051Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T07:26:20.051Z"
+      },
+      "facilities": {
+        "bathrooms": "3",
+        "parking": "1",
+        "bedrooms": "2"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "643900fa74446601d6fce96e"
+      },
+      "title": "Whispering Willow Estate",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 4000,
+      "address": "Street 3",
+      "city": "Tokyo",
+      "country": "Japan",
+      "image": "https://www.pexels.com/photo/brown-house-1127119/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T07:29:58.262Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T07:29:58.262Z"
+      },
+      "facilities": {
+        "bathrooms": "4",
+        "parking": "1",
+        "bedrooms": "4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "6439011d74446601d6fce96f"
+      },
+      "title": "Blue Horizon Manor",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2500,
+      "address": "Street 4",
+      "city": "Delhi",
+      "country": "India",
+      "image": "https://www.pexels.com/photo/lighted-beige-house-1396132/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T07:30:36.761Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T07:30:36.761Z"
+      },
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "3"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392d39dfd90fb29e464fb7"
+      },
+      "title": "Sunny Meadow Cottage",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 6000,
+      "address": "Street 5",
+      "city": "Chicago",
+      "country": "US",
+      "image": "https://www.pexels.com/photo/contemporary-country-house-facade-in-winter-7031406/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:38:48.762Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:38:48.762Z"
+      },
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "5"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392d67dfd90fb29e464fb8"
+      },
+      "title": "Rustic Pine Lodge",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 7050,
+      "address": "Street 6",
+      "city": "San Diego",
+      "country": "US",
+      "image": "https://www.pexels.com/photo/architecture-bushes-chimneys-clouds-208736/",
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:39:35.044Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:39:35.044Z"
+      },
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392ddddfd90fb29e464fba"
+      },
+      "title": "Golden Fields Ranch",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 4000,
+      "address": "Las Vegas",
+      "city": "Los Angeles",
+      "country": "US",
+      "image": "https://lovehomedesigns.com/wp-content/uploads/2022/01/cute-house-012522.jpg",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:41:32.998Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:41:32.998Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392df2dfd90fb29e464fbb"
+      },
+      "title": "Rolling Hills Retreat",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 7",
+      "city": "Phoenix",
+      "country": "US",
+      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2023/03/image_h_01-H-2023.jpg",
+      "facilities": {
+        "bathrooms": "7",
+        "parking": "2",
+        "bedrooms": "10"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:41:54.156Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:41:54.156Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e0bdfd90fb29e464fbc"
+      },
+      "title": "Coastal Breeze Villa",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 8000,
+      "address": "Street 8",
+      "city": "Multan",
+      "country": "Pakistan",
+      "image": "https://assets-news.housing.com/news/wp-content/up…3406/ELEVATED-HOUSE-DESIGN-FEATURE-compressed.jpg",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:42:19.231Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:42:19.231Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e1edfd90fb29e464fbd"
+      },
+      "title": "Autumn Mist Cottage",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 3800,
+      "address": "Street 9",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "image": "https://e0.pxfuel.com/wallpapers/12/377/desktop-wallpaper-beautiful-houses-beautiful-mansion.jpg",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "3"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:42:37.946Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:42:37.946Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e32dfd90fb29e464fbe"
+      },
+      "title": "Riverstone Manor",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 10",
+      "city": "Tampa",
+      "country": "US",
+      "image": "https://st.hzcdn.com/simgs/pictures/exteriors/builders-in-kochi-creo-homes-pvt-ltd-img~a751d25e0d2ef808_4-0254-1-cb5c87b.jpg",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:42:58.826Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:42:58.826Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e46dfd90fb29e464fbf"
+      },
+      "title": "Summerhill Estate",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 11",
+      "city": "Denver",
+      "country": "US",
+      "image": "https://i.pinimg.com/originals/89/56/5c/89565c305737e1da2a1a5b62600fbcd4.jpg",
+      "facilities": {
+        "bathrooms": "2",
+        "parking": "1",
+        "bedrooms": "2"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:43:18.186Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:43:18.186Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e57dfd90fb29e464fc0"
+      },
+      "title": "Crimson Peak Chalet",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 12",
+      "city": "Chicago",
+      "country": "US",
+      "image": "https://cutewallpaper.org/24/house-images/1819611997.jpg",
+      "facilities": {
+        "bathrooms": "3",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:43:35.761Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:43:35.761Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e69dfd90fb29e464fc1"
+      },
+      "title": "Cedar Ridge Ranch",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 13",
+      "city": " New York",
+      "country": "US",
+      "image": "https://media.istockphoto.com/id/1184625380/photo/large-modern-expensive-home.jpg?s=612x612&w=0&k=20&c=TuX7dnAQvrxt02_BMnlgtVMMdvBLmh3gcXL1bPnobP8=",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:43:53.665Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:43:53.665Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64392e7ddfd90fb29e464fc2"
+      },
+      "title": "Aliva Priva Jardin",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 14",
+      "city": " Bostom",
+      "country": "US",
+      "image": "https://cdnprs.wisconsin.dev/wp-content/uploads/2019/10/002_FRITH.jpg",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-14T10:44:13.034Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-14T10:44:13.034Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "643a30b60c4348510952923a"
+      },
+      "title": "Modern Marvel Mansion",
+      "description": "Massive opportunity to build your dream home at the base of Mummy Mountain in the 3 C's school district. Home is currently updated and very livable if your plans are to build at a later date.* Bonus * to live hillside without hillside restrictions in the town of PV. Run don't walk to capture this needle in a hay stack.",
+      "price": 2000,
+      "address": "Street 15",
+      "city": "Multan",
+      "country": "Pakistan",
+      "image": "https://www.homedecorbuzz.com/wp-content/uploads/2017/07/Beautiful-pink-kitchen-design-image.jpg",
+      "facilities": {
+        "bathrooms": "5",
+        "parking": "1",
+        "bedrooms": "4"
+      },
+      "userEmail": "mukhtarhamza294@gmail.com",
+      "createdAt": {
+        "$date": "2023-04-15T05:05:58.189Z"
+      },
+      "updatedAt": {
+        "$date": "2023-04-15T05:05:58.189Z"
+      }
+    }
+  ]
+  
