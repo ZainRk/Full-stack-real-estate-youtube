@@ -52,3 +52,20 @@
 .property-details .button:hover{
     transform: scale(1.05);
 }
+
+
+@media (max-width: 700px) {
+    .property-container>div{
+        flex-direction: column;
+    }
+    .head{
+        flex-direction: column;
+    }
+    .facilities{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .property-details>div{
+        width: 100%;
+    }
+}
