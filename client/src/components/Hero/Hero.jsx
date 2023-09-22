@@ -1,5 +1,4 @@
 import "./Hero.css";
-import CountUp from "react-countup";
 import { motion } from "framer-motion";
 import SearchBar from "../SearchBar/SearchBar";
 const Hero = () => {
@@ -18,40 +17,19 @@ const Hero = () => {
               type: "ease-in",
             }}
             >
-              Discover <br />
-              Most Suitable
-              <br /> Property
+              Come, live<br />
+              The new kind
+              <br /> of Living
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Find a variety of properties that suit you very easilty</span>
-            <span>Forget all difficulties in finding a residence for you</span>
+            <span>A home is a cherished memory that lasts forever.</span>
+            <span>Crammed-up hostels or cooped-up PGs - not much of a choice, is it? <br/> Looking for a fancy and cosy place to live?</span>
+            <span>Well, your search can end now because DreamStays has exactly what you need.</span>
+            <span>We meticulously select affordable PG accommodations<br/> with modern amenities and well-furnished rooms.<br/> With DreamStays you can choose the perfect home that combines<br/> affordability, luxury, comfort, and a sense of belonging.</span>
           </div>
 
           <SearchBar/>
-
-          <div className="flexCenter stats">
-            <div className="flexColCenter stat">
-              <span>
-                <CountUp start={8800} end={9000} duration={4} /> <span>+</span>
-              </span>
-              <span className="secondaryText">Premium Product</span>
-            </div>
-
-            <div className="flexColCenter stat">
-              <span>
-                <CountUp start={1950} end={2000} duration={4} /> <span>+</span>
-              </span>
-              <span className="secondaryText">Happy Customer</span>
-            </div>
-
-            <div className="flexColCenter stat">
-              <span>
-                <CountUp end={28} /> <span>+</span>
-              </span>
-              <span className="secondaryText">Awards Winning</span>
-            </div>
-          </div>
         </div>
 
         {/* right side */}
