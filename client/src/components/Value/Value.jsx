@@ -29,14 +29,14 @@ const Value = () => {
 
         {/* right */}
         <div className="flexColStart v-right">
-          <span className="orangeText">Our Value</span>
+          <span className="orangeText">Our Values</span>
 
-          <span className="primaryText">Value We Give to You</span>
+          <span className="primaryText">Comfortable and Affordable <br/> living for everyone</span>
 
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you.
+          At DreamStays, we want to ensure that finding accomodation is accessible and hassle-free.
             <br />
-            We beleive a good blace to live can make your life better
+            We want to make living easy by providing additional services and furnished homes <br/> so that youngsters can devote their time to their goals and aspirations.
           </span>
 
           <Accordion
