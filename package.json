@@ -1,0 +1,8 @@
+{
+  "name": "realestate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/code-chetna/Major_Project_Final.git",
+  "author": "Anisha Roy Chowdhury <2005216@kiit.ac.in>",
+  "license": "MIT"
+}
