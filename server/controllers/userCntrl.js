@@ -13,8 +13,9 @@ export const createUser = asyncHandler(async (req, res) => {
       message: "User registered successfully",
       user: user,
     });
-  } else res.status(201).send({ message: "User already registered" });
-});
+  }
+   else res.status(201).send({ message: "User already registered" });
+}); 
 
 // function to book a visit to resd
 export const bookVisit = asyncHandler(async (req, res) => {
@@ -23,7 +24,11 @@ export const bookVisit = asyncHandler(async (req, res) => {
 
   try {
     const alreadyBooked = await prisma.user.findUnique({
-      where: { email },
+    
+       where: { 
+        email
+       
+      } ,
       select: { bookedVisits: true },
     });
 

@@ -1,0 +1,38 @@
+{
+    "info": {
+        "_postman_id": "2962df78-1072-4274-8f0d-e3bfc339cb29",
+        "name": "youtube realest",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "description": ""
+    },
+    "item": [
+        {
+            "name": "create a user",
+            "request": {
+                "method": "POST",
+                "url": {
+                    "raw": "http://localhost:8000/api/user/register",
+                    "path": [
+                        "api",
+                        "user",
+                        "register"
+                    ],
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "8000"
+                },
+                "body": {
+                    "mode": "raw",
+                    "options": {
+                        "raw": {
+                            "language": "json"
+                        }
+                    },
+                    "raw": "{\n\"email\":\"anisharoychowdhury6831@gmail.com\"\n}"
+                }
+            }
+        }
+    ]
+}
