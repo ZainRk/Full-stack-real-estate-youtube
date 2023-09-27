@@ -4,6 +4,8 @@ import { Swiper, SwiperSlide, useSwiper } from "swiper/react";
 import "swiper/css";
 import "./Residencies.css";
 import { sliderSettings } from "../../utils/common";
+//import { sliderSettings } from "../../utils/slider.json";
+
 import PropertyCard from "../PropertyCard/PropertyCard";
 import useProperties from "../../hooks/useProperties";
 import {PuffLoader} from 'react-spinners'
